@@ -1,0 +1,7 @@
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\bin\Debug\Ex_04Calculator.exe.config
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\bin\Debug\Ex_04Calculator.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\bin\Debug\Ex_04Calculator.pdb
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\obj\Debug\Ex_04Calculator.csproj.AssemblyReference.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\obj\Debug\Ex_04Calculator.csproj.CoreCompileInputs.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\obj\Debug\Ex_04Calculator.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\BroCodePracticeApp_001\Ex_04Calculator\obj\Debug\Ex_04Calculator.pdb
